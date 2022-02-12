@@ -12,9 +12,9 @@ This project has a configured react native app that includes:
 - react-native-splash-screen
 
 ## To use it
-git clone https://github.com/ashraf-ainia/rn-boilerplate.git
-cd rn-boilerplate
-npm install
-cd ios && pod install && cd ..
-npm run ios
-npm run android
+- git clone https://github.com/ashraf-ainia/rn-boilerplate.git
+- cd rn-boilerplate
+- npm install
+- cd ios && pod install && cd ..
+- npm run ios
+- npm run android
